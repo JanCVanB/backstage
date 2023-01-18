@@ -1,5 +1,15 @@
 # example-app
 
+## 0.2.80-next.0
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/plugin-azure-devops@0.2.6-next.0
+  - @backstage/plugin-scaffolder-react@1.1.0-next.0
+  - @backstage/plugin-scaffolder@1.11.0-next.0
+  - @backstage/cli@0.22.1
+
 ## 0.2.79
 
 ### Patch Changes
